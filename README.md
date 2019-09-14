@@ -1,2 +1,0 @@
-# KarpovVBTask
-Created with CodeSandbox
